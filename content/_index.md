@@ -37,8 +37,9 @@ My research interest includes modeling of energy and cooling systems, applicatio
 - *2009.06 - 2014.03*: B.Sc. in Mechanical Engineering. Bohol Island State University.
 
 # 💬 Conferences {#conferences}
-- *2025.08*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.11*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.08*: 12th International Conference on Energy and Environment Research (ICEER 2025), Chengdu, China.
+- *2022.11*: 8th International Conference on Sustainable Energy and Environment. Bangkok, Thailand.
+- *2022.11*: International Conference on Sustainable Energy and Green Technology 2019 (SEGT 2019). Bangkok, Thailand.
 
 # 💻 Projects {#projects}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
