@@ -4,7 +4,7 @@ title: "Ronard Pana"
 
 # About Me {#about-me}
 
-I am an assistant professor at the Visayas State University in Baybay, Leyte, Philippines. Currently, I am a Ph.D. candidate in Energy Engineering at the University of the Philippines Diliman.  
+I am an assistant professor at the Visayas State University in Baybay, Leyte, Philippines, and currently, a Ph.D. candidate in Energy Engineering at the University of the Philippines Diliman.  
 
 My research interest includes modeling of energy and cooling systems, application of artificial intelligence particularly reinforcement learning to energy systems. I have published journal articles and conference proceedings. I have also presented my work in various international conferences.
 
