@@ -59,24 +59,20 @@ disableKinds = ["taxonomy", "term", "RSS"]
   
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/ronardgpana/"
     icon = "fab fa-github"
   [[params.social]]
     name = "google-scholar"
-    url = "https://scholar.google.com/"
+    url = "https://scholar.google.com/citations?hl=en&user=0XUtNegAAAAJ/"
     icon = "fab fa-google-scholar"
   [[params.social]]
     name = "email"
-    url = "mailto:example@example.com"
+    url = "mailto:ronard.pana@vsu.edu.ph"
     icon = "fas fa-envelope"
   [[params.social]]
     name = "linkedin"
-    url = "https://linkedin.com/"
+    url = "https://www.linkedin.com/in/ronardpana/"
     icon = "fab fa-linkedin"
-  [[params.social]]
-    name = "zhihu"
-    url = "https://zhihu.com/"
-    icon = "fab fa-zhihu"
 
 [build]
   writeStats = false
