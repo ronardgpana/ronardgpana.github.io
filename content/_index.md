@@ -17,7 +17,8 @@ My research interest includes modeling of energy and cooling systems, applicatio
 - ***[Energy from Hybrid Rice: Biomass and Biochar Properties of Oryza Sativa var. Longping 2096 Rice Husk](https://link.springer.com/chapter/10.1007/978-3-032-29382-4_1)*** <br>
   Keen Cabalse, Philip John Paul Credo, Metchie Ulan-ulan, Ralph Roland Pagalan, Roseben Bañez, Ronard Paña
   in International Conference on Energy and Environment Research (**ICEER 2025**), 2025. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-29382-4_1" class="no-trailing-icon"><img src="https://img.shields.io/badge/Springer-Read%20Chapter-1B5C9B?style=flat-square&logo=springer&logoColor=white" alt="Springer chapter"/></a>
+  <a href="https://doi.org/10.1007/978-3-032-29382-4_1" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--29382--4__1-4A5568?style=flat-square" alt="DOI"/></a>
 - ***[One-dimensional Transient Model of Product Temperature and Weight Loss Evolution in a Vacuum Cooler with Membrane Humidification](https://www.dl.begellhouse.com/journals/6d18a859536a7b02,5b960ddd40833641,196197f85d8a135d.html)*** <br>
   Ronard Paña, Menandro Berana
   in International Journal of Energy for a Clean Environment, 2023. <br>

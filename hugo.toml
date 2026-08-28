@@ -73,6 +73,10 @@ disableKinds = ["taxonomy", "term", "RSS"]
     name = "linkedin"
     url = "https://www.linkedin.com/in/ronardpana/"
     icon = "fab fa-linkedin"
+  [[params.social]]
+    name = "researchgate"
+    url = "https://www.researchgate.net/profile/Ronard-Pana-2?ev=hdr_xprf"
+    icon = "fab fa-researchgate"
 
 [build]
   writeStats = false
