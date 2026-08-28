@@ -23,7 +23,7 @@ My research interest includes modeling of energy and cooling systems, applicatio
 - *2016.08*: **Assistant Professor** Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
 - *2014.12*: **Design Engineering** Tsuneishi Technical Services (Phils), Inc. Balamban, Cebu, Philippines 
 
-# 📖 Educations {#educations}
+# 📖 Education {#education}
 - *2024.08 - present*: Ph.D. in Energy Engineering. University of the Philippines Diliman.
 - *2018.08 - 2020.07*: M.Sc. in Mechanical Engineering. University of the Philippines Diliman. 
 - *2009.06 - 2014.03*: B.Sc. in Mechanical Engineering. Bohol Island State University.
