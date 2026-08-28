@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Ronard G. Paña"
-      description = "Ph.D Candidate, Energy Engineering. Focusing on applied Reinforcement Learning for Energy Systems."
+      description = "Ph.D Candidate, Energy Engineering. Focusing on applied reinforcement learning for Energy Systems."
     
     [[languages.en.menu.main]]
       name = 'About Me'
@@ -37,20 +37,20 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#publications'
       weight = 3
     [[languages.en.menu.main]]
-      name = 'Honors and Awards'
-      url = '#honors-and-awards'
+      name = 'Work Experience'
+      url = '#work-experience'
       weight = 4
     [[languages.en.menu.main]]
-      name = 'Educations'
-      url = '#educations'
+      name = 'Education'
+      url = '#education'
       weight = 5
     [[languages.en.menu.main]]
-      name = 'Invited Talks'
-      url = '#invited-talks'
+      name = 'Conferences'
+      url = '#conferences'
       weight = 6
     [[languages.en.menu.main]]
-      name = 'Internships'
-      url = '#internships'
+      name = 'Projectss'
+      url = '#projects'
       weight = 7
 
 [params]
