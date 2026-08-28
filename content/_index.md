@@ -17,7 +17,7 @@ My research interest includes modeling of energy and cooling systems, applicatio
 
 - ***[Energy from Hybrid Rice: Biomass and Biochar Properties of Oryza Sativa var. Longping 2096 Rice Husk](https://link.springer.com/chapter/10.1007/978-3-032-29382-4_1)*** <br>
   Keen Cabalse, Philip John Paul Credo, Metchie Ulan-ulan, Ralph Roland Pagalan, Roseben Bañez, Ronard Paña
-  in International Conference on Energy and Environment Research (**ICEER 2025**), 2025. <br>
+  in Springer Nature: Environmental Science and Engineering, 2026. <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-032-29382-4_1" class="no-trailing-icon"><img src="https://img.shields.io/badge/Springer-Read%20Chapter-1B5C9B?style=flat-square&logo=springer&logoColor=white" alt="Springer chapter"/></a>
   <a href="https://doi.org/10.1007/978-3-032-29382-4_1" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--29382--4__1-4A5568?style=flat-square" alt="DOI"/></a>
 - ***[One-dimensional Transient Model of Product Temperature and Weight Loss Evolution in a Vacuum Cooler with Membrane Humidification](https://www.dl.begellhouse.com/journals/6d18a859536a7b02,5b960ddd40833641,196197f85d8a135d.html)*** <br>
