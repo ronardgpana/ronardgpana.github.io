@@ -22,8 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Ronard G. Paña"
-      description = "Ph.D Student in [Lorem ipsum College](https://example.com). Focusing on Computer Vision and Deep Learning."
-      motto = "Most things in the world are not that important. But truth and love matter."
+      description = "Ph.D Candidate, Energy Engineering. Focusing on applied Reinforcement Learning for Energy Systems."
     
     [[languages.en.menu.main]]
       name = 'About Me'
