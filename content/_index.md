@@ -32,8 +32,8 @@ My research interest includes modeling of energy and cooling systems, applicatio
   <a href="https://doi.org/10.1088/1755-1315/463/1/012180" class="no-trailing-icon"><img src="https://img.shields.io/badge/Open%20Access-Free%20PDF-F68212?style=flat-square" alt="Open access"/></a>
 
 # 💼 Work Experience {#work-experience}
-- *2016.08*: **Assistant Professor** Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
-- *2014.12*: **Design Engineering** Tsuneishi Technical Services (Phils), Inc. Balamban, Cebu, Philippines 
+- *2016.08*: **Assistant Professor**, Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
+- *2014.12*: **Design Engineer**, Tsuneishi Technical Services (Phils), Inc. Balamban, Cebu, Philippines 
 
 # 📖 Education {#education}
 - *2024.08 - present*: Ph.D. in Energy Engineering. University of the Philippines Diliman.
@@ -42,7 +42,7 @@ My research interest includes modeling of energy and cooling systems, applicatio
 
 # 💬 Conferences {#conferences}
 - *2025.08*: 12th International Conference on Energy and Environment Research (ICEER 2025), Chengdu, China.
-- *2022.11*: 8th International Conference on Sustainable Energy and Environment. Bangkok, Thailand.
+- *2022.11*: 8th International Conference on Sustainable Energy and Environment (SEE 2022). Bangkok, Thailand.
 - *2022.11*: International Conference on Sustainable Energy and Green Technology 2019 (SEGT 2019). Bangkok, Thailand.
 
 # 💻 Projects {#projects}
