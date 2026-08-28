@@ -46,8 +46,8 @@ My research interest includes modeling of energy and cooling systems, applicatio
 
 # 💻 Projects {#projects}
 - *2025.10 - 2026.08*, ***[Project 1]*** <br>
-  <a href="https://github.com/ronardgpana/wflo-rl" class="no-trailing-icon"><img src="https://img.shields.io/badge/GitHub-wflo--rl-1a5f4a?style=flat-square&logo=github&logoColor=white" alt="GitHub repository"/></a>
+  <a href="https://github.com/ronardgpana/wflo-rl" class="no-trailing-icon"><img src="https://img.shields.io/badge/GitHub-wflo--stm-1a5f4a?style=flat-square&logo=github&logoColor=white" alt="GitHub repository"/></a>
 - *2025.10 - 2026.08*, ***[Project 2]*** <br>
-  <a href="https://github.com/ronardgpana/wflo-gnn-mappo" class="no-trailing-icon"><img src="https://img.shields.io/badge/GitHub-wflo--rl-1a5f4a?style=flat-square&logo=github&logoColor=white" alt="GitHub repository"/></a>
+  <a href="https://github.com/ronardgpana/wflo-gnn-mappo" class="no-trailing-icon"><img src="https://img.shields.io/badge/GitHub-wflo--stmp-1a5f4a?style=flat-square&logo=github&logoColor=white" alt="GitHub repository"/></a>
 - *2025.10 - 2026.08*, ***[Project 3]*** <br>
-  <a href="https://github.com/ronardgpana/wflo-wfcr-gnn-mappo" class="no-trailing-icon"><img src="https://img.shields.io/badge/GitHub-wflo--rl-1a5f4a?style=flat-square&logo=github&logoColor=white" alt="GitHub repository"/></a>
+  <a href="https://github.com/ronardgpana/wflo-wfcr-gnn-mappo" class="no-trailing-icon"><img src="https://img.shields.io/badge/GitHub-wflo--dstmp-1a5f4a?style=flat-square&logo=github&logoColor=white" alt="GitHub repository"/></a>
