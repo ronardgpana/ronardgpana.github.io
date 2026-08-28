@@ -20,17 +20,17 @@ My research interest includes modeling of energy and cooling systems, applicatio
   <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
 
 # 🎖 Work Experience {#work-experience}
-- *2016.08* **Assistant Professor** Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
-- *2014.12* **Design Engineering** Tsuneishi Technical Services (Phils), Inc. Balamban, Cebu, Philippines 
+- *2016.08*: **Assistant Professor** Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
+- *2014.12*: **Design Engineering** Tsuneishi Technical Services (Phils), Inc. Balamban, Cebu, Philippines 
 
 # 📖 Educations {#educations}
-- *2024.08 - present (now)*, Ph.D. in Energy Engineering. University of the Philippines Diliman.
-- *2018.08 - 2020.07*, M.Sc. in Mechanical Engineering. University of the Philippines Diliman. 
-- *2009.06 - 2014.03*, B.Sc. in Mechanical Engineering. Bohol Island State University.
+- *2024.08 - present*: Ph.D. in Energy Engineering. University of the Philippines Diliman.
+- *2018.08 - 2020.07*: M.Sc. in Mechanical Engineering. University of the Philippines Diliman. 
+- *2009.06 - 2014.03*: B.Sc. in Mechanical Engineering. Bohol Island State University.
 
-# 💬 Invited Talks {#invited-talks}
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conferences {#conferences}
+- *2025.08*: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.11*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships {#internships}
+# 💻 Projects {#projects}
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
