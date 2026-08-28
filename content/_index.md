@@ -22,11 +22,13 @@ My research interest includes modeling of energy and cooling systems, applicatio
 - ***[One-dimensional Transient Model of Product Temperature and Weight Loss Evolution in a Vacuum Cooler with Membrane Humidification](https://www.dl.begellhouse.com/journals/6d18a859536a7b02,5b960ddd40833641,196197f85d8a135d.html)*** <br>
   Ronard Paña, Menandro Berana
   in International Journal of Energy for a Clean Environment, 2023. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+  <a href="https://https://doi.org/10.1615/InterJEnerCleanEnv.2023046935" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--29382--4__1-4A5568?style=flat-square" alt="DOI"/></a>
 - ***[Medical waste treatment and electricity generation using pyrolyzer-rankine cycle for specialty hospitals in Quezon City, Philippines](https://iopscience.iop.org/article/10.1088/1755-1315/463/1/012180/meta)*** <br>
   Ferdinand Manegdeg, Leif Oliver Coronado, Ronard Paña
   in IOP Conference Series: Earth and Environmental Science, 2020. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+  <a href="https://iopscience.iop.org/article/10.1088/1755-1315/463/1/012180" class="no-trailing-icon"><img src="https://img.shields.io/badge/IOPscience-Read%20Article-CE0058?style=flat-square" alt="IOPscience article"/></a>
+  <a href="https://doi.org/10.1088/1755-1315/463/1/012180" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1088%2F1755--1315%2F463%2F1%2F012180-4A5568?style=flat-square" alt="DOI"/></a>
+  <a href="https://doi.org/10.1088/1755-1315/463/1/012180" class="no-trailing-icon"><img src="https://img.shields.io/badge/Open%20Access-Free%20PDF-F68212?style=flat-square" alt="Open access"/></a>
 
 # 💼 Work Experience {#work-experience}
 - *2016.08*: **Assistant Professor** Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
