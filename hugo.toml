@@ -49,7 +49,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#conferences'
       weight = 6
     [[languages.en.menu.main]]
-      name = 'Projectss'
+      name = 'Projects'
       url = '#projects'
       weight = 7
 
