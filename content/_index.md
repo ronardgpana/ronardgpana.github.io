@@ -10,6 +10,7 @@ My research interest includes modeling of energy and cooling systems, applicatio
 
 # 🔥 News {#news}
 - *2026.08*: &nbsp;🎉🎉 Our paper is now published in Springer Nature: Environmental Science and Engineering as a chapter of the book "Towards Sustainable Geographies with Net Zero Carbon Economy."
+- *2026.06*: &nbsp;💍💍 Married my Queen, Lesitte.
 - *2026.03*: &nbsp;🎉🎉 Officially a Ph.D. candidate.
 
 # 📝 Publications {#publications}
