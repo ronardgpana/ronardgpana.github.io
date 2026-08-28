@@ -9,23 +9,24 @@ I am an assistant professor at the Visayas State University in Baybay, Leyte, Ph
 My research interest includes modeling of energy and cooling systems, application of artificial intelligence particularly reinforcement learning to energy systems. I have published journal articles and conference proceedings. I have also presented my work in various international conferences.
 
 # 🔥 News {#news}
-- *2026.03*: &nbsp;🎉🎉 Our paper is now published in Springer Nature: Environmental Science and Engineering as a chapter of the book "Towards Sustainable Geographies with Net Zero Carbon Economy."
+- *2026.08*: &nbsp;🎉🎉 Our paper is now published in Springer Nature: Environmental Science and Engineering as a chapter of the book "Towards Sustainable Geographies with Net Zero Carbon Economy."
 - *2026.03*: &nbsp;🎉🎉 Officially a Ph.D. candidate.
 
 # 📝 Publications {#publications}
 
-- ***[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)*** <br>
-  Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
-  in Conference on Neural Information Processing Systems (**Neurips**), 2023. <br>
+- ***[Energy from Hybrid Rice: Biomass and Biochar Properties of Oryza Sativa var. Longping 2096 Rice Husk](https://link.springer.com/chapter/10.1007/978-3-032-29382-4_1)*** <br>
+  Keen Cabalse, Philip John Paul Credo, Metchie Ulan-ulan, Ralph Roland Pagalan, Roseben Bañez & Ronard Paña
+  in International Conference on Energy and Environment Research (**ICEER 2025**), 2025. <br>
   <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
 
-# 🎖 Honors and Awards {#honors-and-awards}
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Work Experience {#work-experience}
+- *2016.08* **Assistant Professor** Department of Mechanical Engineering, Visayas State University. Baybay, Leyte, Philippines
+- *2014.12* **Design Engineering** Tsuneishi Technical Services (Phils), Inc. Balamban, Cebu, Philippines 
 
 # 📖 Educations {#educations}
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - present (now)*, Ph.D. in Energy Engineering. University of the Philippines Diliman.
+- *2018.08 - 2020.07*, M.Sc. in Mechanical Engineering. University of the Philippines Diliman. 
+- *2009.06 - 2014.03*, B.Sc. in Mechanical Engineering. Bohol Island State University.
 
 # 💬 Invited Talks {#invited-talks}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
