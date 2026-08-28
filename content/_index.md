@@ -45,4 +45,5 @@ My research interest includes modeling of energy and cooling systems, applicatio
 - *2022.11*: International Conference on Sustainable Energy and Green Technology 2019 (SEGT 2019). Bangkok, Thailand.
 
 # 💻 Projects {#projects}
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.10 - 2026.08*, ***[Project 1]*** <br>
+  <a href="https://github.com/ronardgpana/wflo-rl" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
