@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Ronard G. Paña"
-      description = "Ph.D Candidate, Energy Engineering. Focusing on applied reinforcement learning for Energy Systems."
+      description = "Ph.D Candidate, Energy Engineering. Focusing on applied reinforcement learning for energy systems."
     
     [[languages.en.menu.main]]
       name = 'About Me'
