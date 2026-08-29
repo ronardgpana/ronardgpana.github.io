@@ -43,7 +43,7 @@ My research interest includes modeling of energy and cooling systems, applicatio
 # 💬 Conferences {#conferences}
 - *2025.08*: 12th International Conference on Energy and Environment Research (ICEER 2025), Chengdu, China.
 - *2022.11*: 8th International Conference on Sustainable Energy and Environment (SEE 2022). Bangkok, Thailand.
-- *2022.11*: International Conference on Sustainable Energy and Green Technology 2019 (SEGT 2019). Bangkok, Thailand.
+- *2020.12*: International Conference on Sustainable Energy and Green Technology 2019 (SEGT 2019). Bangkok, Thailand.
 
 # 💻 Projects {#projects}
 - *2025.10 - 2026.08*, ***[Project 1]*** <br>
