@@ -5,6 +5,12 @@ description: "Conference presentations by Ronard G. Paña."
 
 ## Conferences
 
+* **IEEE International Conference on Evolving and Adaptive Intelligent Systems (IEEE EAIS 2026)** <br>
+    Pisa, Italy <br>
+    <span style="color: gray;">September 2026</span>
+
+<br>
+
 * **12th International Conference on Energy and Environment Research (ICEER 2025)** <br>
     Chengdu, China <br>
     <span style="color: gray;">August 2025</span>
