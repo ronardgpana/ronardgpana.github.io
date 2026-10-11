@@ -17,12 +17,15 @@ menu:
     - name: Projects
       url: /projects/
       weight: 2
-    - name: Experience
-      url: /experience/
+    - name: Work Experience
+      url: /work-experience/
       weight: 3
-    - name: News
-      url: /news/
+    - name: Education
+      url: /education/
       weight: 4
+    - name: Conferences
+      url: /conferences/
+      weight: 5
 
 params:
   description: "Assistant Professor at Visayas State University and Ph.D. candidate in Energy Engineering at the University of the Philippines Diliman. Research on energy and cooling systems modeling and reinforcement learning for energy systems."
@@ -69,10 +72,12 @@ params:
         url: /publications/
       - name: Projects
         url: /projects/
-      - name: Experience
-        url: /experience/
-      - name: News
-        url: /news/
+      - name: Work Experience
+        url: /work-experience/
+      - name: Education
+        url: /education/
+      - name: Conferences
+        url: /conferences/
 
   socialIcons:
     - name: Google Scholar

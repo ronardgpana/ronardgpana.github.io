@@ -91,3 +91,17 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+/* With five sections the menu no longer fits on phones: wrap it instead of scrolling sideways */
+@media screen and (max-width: 768px) {
+    #menu {
+        flex-wrap: wrap;
+        overflow-x: visible;
+        row-gap: 4px;
+        column-gap: var(--gap);
+    }
+
+    #menu li + li {
+        margin-inline-start: 0;
+    }
+}

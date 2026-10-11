@@ -9,8 +9,10 @@ Source for [ronardgpana.github.io](https://ronardgpana.github.io), built with [H
 | Name, bio, profile photo, social links, menu | `config.yml` |
 | Publications | `content/publications/_index.md` |
 | Projects (one file per project; `p0.md` is the group heading) | `content/projects/` |
-| Work experience, education, conferences | `content/experience/_index.md` |
-| News | `content/news/_index.md` |
+| Work experience | `content/work-experience/_index.md` |
+| Education | `content/education/_index.md` |
+| Conferences | `content/conferences/_index.md` |
+| News (shown on the home page under the bio; newest first) | `content/news/index.md` |
 | Images and PDFs (served from the site root, e.g. `/profile_pana.jpg`) | `static/` |
 
 To add a project thumbnail, put the image in `static/` and set `image: "/your-image.png"` in the project's front matter.
