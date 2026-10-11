@@ -20,10 +20,10 @@ My research interest includes modeling of energy and cooling systems, applicatio
   in Springer Nature: Environmental Science and Engineering, 2026. <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-032-29382-4_1" class="no-trailing-icon"><img src="https://img.shields.io/badge/Springer-Read%20Chapter-1B5C9B?style=flat-square&logo=springer&logoColor=white" alt="Springer chapter"/></a>
   <a href="https://doi.org/10.1007/978-3-032-29382-4_1" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1007%2F978--3--032--29382--4__1-4A5568?style=flat-square" alt="DOI"/></a>
-- ***[One-dimensional Transient Model of Product Temperature and Weight Loss Evolution in a Vacuum Cooler with Membrane Humidification](https://www.dl.begellhouse.com/journals/6d18a859536a7b02,5b960ddd40833641,196197f85d8a135d.html)*** <br>
+- ***[One-dimensional Transient Model of Product Temperature and Weight Loss Evolution in a Vacuum Cooler with Membrane Humidification](https://doi.org/10.1615/InterJEnerCleanEnv.2023046935)*** <br>
   Ronard Paña, Menandro Berana
   in International Journal of Energy for a Clean Environment, 2023. <br>
-  <a href="https://dl.begellhouse.com/journals/6d18a859536a7b02,5b960ddd40833641,196197f85d8a135d.html" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1615/InterJEnerCleanEnv.2023046935-4A5568?style=flat-square" alt="DOI"/></a>
+  <a href="https://doi.org/10.1615/InterJEnerCleanEnv.2023046935" class="no-trailing-icon"><img src="https://img.shields.io/badge/DOI-10.1615/InterJEnerCleanEnv.2023046935-4A5568?style=flat-square" alt="DOI"/></a>
 - ***[Medical waste treatment and electricity generation using pyrolyzer-rankine cycle for specialty hospitals in Quezon City, Philippines](https://iopscience.iop.org/article/10.1088/1755-1315/463/1/012180/meta)*** <br>
   Ferdinand Manegdeg, Leif Oliver Coronado, Ronard Paña
   in IOP Conference Series: Earth and Environmental Science, 2020. <br>
