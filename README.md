@@ -1,48 +1,33 @@
-# Zero Academic Page Starter Template
+# Ronard G. Paña — academic website
 
-This is a quick start template for [Zero Academic Page](https://github.com/geekifan/zero-academic-page). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+Source for [ronardgpana.github.io](https://ronardgpana.github.io), built with [Hugo](https://gohugo.io) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+## Where things live
 
-## Get started
+| What | File |
+| --- | --- |
+| Name, bio, profile photo, social links, menu | `config.yml` |
+| Publications | `content/publications/_index.md` |
+| Projects (one file per project; `p0.md` is the group heading) | `content/projects/` |
+| Work experience, education, conferences | `content/experience/_index.md` |
+| News | `content/news/_index.md` |
+| Images and PDFs (served from the site root, e.g. `/profile_pana.jpg`) | `static/` |
 
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+To add a project thumbnail, put the image in `static/` and set `image: "/your-image.png"` in the project's front matter.
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+## Preview locally
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
-
-4. Check `hugo.toml` for the configuration file. You can edit them to suit your needs. Make sure to update the `baseurl` property in `hugo.toml` to your site's URL.
-
-5. Open Settings -> Pages. Change the build branch from `main` to `gh-pages`.
-![Build](https://github.com/namanh11611/hugo-theme-stack-starter/assets/16586200/12c763cd-bead-4923-b610-8788f388fcb5)
-
-1. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
-
-## Build and deploy locally
-
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **First, you need to install Git, Go and Hugo extended locally.**.
-
-1. Clone this repository to your local machine
-```bash
-git clone https://github.com/geekifan/zero-academic-page-starter && cd zero-academic-page-starter
-```
-2. Run `hugo server` in the terminal and see your new site in action.
-
-3. Check `hugo.toml` for the configuration file. You can edit them to suit your needs. Make sure to update the `baseurl` property in `hugo.toml` to your site's URL.
-
-4. Run `hugo build`.
-
-5. Upload `public` directory to your server.
-
-## Update theme manually
-
-Run:
+Install [Hugo extended 0.111.3](https://github.com/gohugoio/hugo/releases/tag/v0.111.3) (the version the deploy workflow uses), then run:
 
 ```bash
-hugo mod get -u github.com/geekifan/zero-academic-page
-hugo mod tidy
+hugo server
 ```
+
+## Deploying
+
+Pushing to `main` builds the site and publishes it to the `gh-pages` branch (Settings → Pages should serve from `gh-pages`). Pull requests only build the site, so a broken change shows up as a failed check before it goes live.
+
+## Credits
+
+- Theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) (MIT), vendored in `themes/PaperMod`.
+- Layout and style overrides in `layouts/` and `assets/css/` are adapted from [SamiaKabir/samiakabir.github.io](https://github.com/SamiaKabir/samiakabir.github.io) (MIT, © 2023 Samia Kabir; see `LICENSE-samiakabir`).

@@ -1,0 +1,108 @@
+baseURL: "https://ronardgpana.github.io/"
+title: Ronard G. Paña
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableGitInfo: true
+
+disableKinds: ["taxonomy", "term", "RSS"]
+
+menu:
+  main:
+    - name: Publications
+      url: /publications/
+      weight: 1
+    - name: Projects
+      url: /projects/
+      weight: 2
+    - name: Experience
+      url: /experience/
+      weight: 3
+    - name: News
+      url: /news/
+      weight: 4
+
+params:
+  description: "Assistant Professor at Visayas State University and Ph.D. candidate in Energy Engineering at the University of the Philippines Diliman. Research on energy and cooling systems modeling and reinforcement learning for energy systems."
+  author: Ronard G. Paña
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: true
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: false
+  profileMode:
+    enabled: true
+    title: Ronard G. Paña
+    subtitle: "Hello! I am an Assistant Professor at the Visayas State University in Baybay, Leyte, Philippines,
+     and currently a Ph.D. candidate in Energy Engineering at the University of the Philippines Diliman.
+
+     <br><br>
+     My research interests include the modeling of energy and cooling systems and the application of
+     artificial intelligence, particularly reinforcement learning, to energy systems. I have published
+     journal articles and conference proceedings, and have presented my work at various international conferences.
+
+     <br><br>
+     Thank you for visiting my webpage!
+     "
+    imageUrl: "/profile_pana.jpg"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: Ronard G. Paña
+    buttons:
+      - name: Publications
+        url: /publications/
+      - name: Projects
+        url: /projects/
+      - name: Experience
+        url: /experience/
+      - name: News
+        url: /news/
+
+  socialIcons:
+    - name: Google Scholar
+      url: "https://scholar.google.com/citations?hl=en&user=0XUtNegAAAAJ"
+    - name: ResearchGate
+      url: "https://www.researchgate.net/profile/Ronard-Pana-2"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/ronardpana/"
+    - name: GitHub
+      url: "https://github.com/ronardgpana"
+    - name: Email
+      url: "mailto:ronard.pana@vsu.edu.ph"
+
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: true
+    hiddenInSingle: true
+  label:
+    text: "Ronard G. Paña"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: xcode
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
